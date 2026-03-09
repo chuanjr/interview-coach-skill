@@ -1,6 +1,6 @@
 # Cross-Cutting Modules
 
-These modules are active across all workflows. They are referenced from SKILL.md and integrated into specific commands as noted.
+These modules are active across all workflows. They are referenced from CLAUDE.md and integrated into specific commands as noted.
 
 ---
 

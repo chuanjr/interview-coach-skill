@@ -67,13 +67,7 @@ cd interview-coach-skill
 
 Or [download it as a ZIP](https://github.com/noamseg/interview-coach-skill/archive/refs/heads/main.zip) and unzip.
 
-2. Activate the coach by renaming the skill file:
-
-```bash
-mv SKILL.md CLAUDE.md
-```
-
-3. Open the folder in Claude Code and say `kickoff`.
+2. Open the folder in Claude Code and say `kickoff`.
 
 Requires any paid Claude plan. Also works with Claude Code (terminal), Cursor, or any environment with file system access.
 
@@ -91,7 +85,7 @@ Or [download it as a ZIP](https://github.com/noamseg/interview-coach-skill/archi
 2. Activate the coach by renaming the skill file:
 
 ```bash
-mv SKILL.md AGENTS.md
+cp CLAUDE.md AGENTS.md
 ```
 
 3. Open the folder in Codex and say `kickoff`.
@@ -384,7 +378,7 @@ Choose during `kickoff`. You can switch later.
 
 ```text
 interview-coach-skill/
-├── SKILL.md                            # Core skill — rename to CLAUDE.md to activate
+├── CLAUDE.md                           # Core skill file
 ├── README.md                           # This file
 ├── LICENSE                             # MIT License
 ├── coaching_state.md                   # Created on first kickoff (persistent memory, auto-saved)

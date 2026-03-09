@@ -119,7 +119,7 @@ Three new commands for the artifacts candidates build before they ever interview
 - `Signal` → `Hire Signal` column rename backward compatibility
 - Interview Loops per-entry fields (Status, Round formats, Fit verdict, etc.)
 
-**Key files**: `SKILL.md` (schema migration rules), `references/commands/kickoff.md` (Interview Intelligence for new users)
+**Key files**: `CLAUDE.md` (schema migration rules), `references/commands/kickoff.md` (Interview Intelligence for new users)
 
 ---
 

@@ -88,7 +88,7 @@ After resume analysis, cross-reference the candidate's profile against their sta
 
 ### Step 3: Initialize Coaching State
 
-Write the initial `coaching_state.md` file (see SKILL.md Session State System for format) with:
+Write the initial `coaching_state.md` file (see CLAUDE.md Session State System for format) with:
 - Profile section populated from Steps 1-2
 - Resume Analysis section populated from Step 2.5 output (positioning strengths, likely concerns, career narrative gaps, story seeds). This is critical — every downstream command (`concerns`, `prep`, `stories`, `hype`) benefits from having the resume analysis persisted. Don't lose this work.
 - Empty storybank (or populated if initial stories were provided — if initial stories are provided, write full STAR text to the Story Details section)

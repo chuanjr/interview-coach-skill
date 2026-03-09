@@ -334,7 +334,7 @@ Lenses 1, 2, 4, 5 (Pre-Mortem omitted — replaced with devil's advocate Q&A whi
 
 ### Coaching State Integration
 
-Save to coaching_state.md as a top-level section (matching the schema in SKILL.md). Include the company name in the section header when company-specific:
+Save to coaching_state.md as a top-level section (matching the schema in CLAUDE.md). Include the company name in the section header when company-specific:
 
 ```markdown
 ## Presentation Prep: [Topic / Company]
